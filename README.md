@@ -1,2 +1,9 @@
-# ifmgpn.github.io
-Site do IFMG Ponte Nova
+# JI
+Jogos Internos do IFMG Ponte Nova
+
+## Colaboradores
+Charles Garrocho
+
+Guilherme Gariglio
+
+Victor Monteiro
